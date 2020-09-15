@@ -7,3 +7,5 @@
 //
 
 import Foundation
+
+let apiKey = "ba12890de92f3d311e29cf7ce27722d9"
